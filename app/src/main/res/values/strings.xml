@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraRobusta</string>
+    <string name="mais">+</string>
+    <string name="multi">*</string>
+</resources>
